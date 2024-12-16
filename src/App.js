@@ -6,6 +6,8 @@ function App() {
       efe
       <h1> YUKARIDA EFE YAZIYOR </h1>
       <button>  BU BİR BUTON</button>
+      <button>  BU DA BİR BUTTON </button>
+
     </div>
   )
 }
